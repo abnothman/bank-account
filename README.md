@@ -30,8 +30,7 @@ Maven : 3.10
 Lombok : 1.18.30
 
 # Instructions
-1. Clonage du projet
-Checkout project
+1. Checkout project
 
 https://github.com/abnothman/bank-account.git
 
