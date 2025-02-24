@@ -9,8 +9,8 @@ This project is a solution to the Bank Account Kata. It allows a bank client to 
 
 
 # Requirements
-  Deposit and Withdrawal functionalities.
-  Statement transaction printing.
+	Deposit and Withdrawal functionalities.
+	Statement transaction printing.
 
 # User Stories
 
@@ -20,9 +20,9 @@ This project is a solution to the Bank Account Kata. It allows a bank client to 
 	I want to make a deposit in my account
 
 # US 2:
-  In order to retrieve some or all of my savings 
-  As a bank client 
-  I want to make a withdrawal from my account
+	In order to retrieve some or all of my savings 
+	As a bank client 
+	I want to make a withdrawal from my account
 
 # Used technologies:
 Spring Boot : 3.0.8
@@ -35,7 +35,8 @@ Lombok : 1.18.30
 
 # Instructions
 1. Clonage du projet
-Checkout project 
+Checkout project
+
 https://github.com/abnothman/bank-account.git
 
 2. Compilate project
