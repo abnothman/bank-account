@@ -43,12 +43,16 @@ Se dplacer dans le rpertoire du projet, puis excutez la commande Maven 
 cd bank-account
 mvn clean install
 
+
 3. Unit Tests execution
 3.1 Global execution for unit tests
 mvn test
 
 3.2 Unit tests for a class
 mvn test -DTest=Test classname
+
+4. Run Application
+mvn spring-boot:run
 
 
 
