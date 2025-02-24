@@ -1,28 +1,24 @@
 # bank-account
 
 # Description
-This project is a solution to the Bank Account Kata. It allows a bank client to perform :
-	Make a deposit to an account.
-	Make a withdrawal from an account.
-	Print account transaction statement.
-	View the account statement (showing date, amount and balance).
+This project is a bank account solution. It allows to perform :
+
+	Make a deposit to my account.
+	Make a withdrawal from my account.
+	Print the account statement (date, amount and balance).
 
 
 # Requirements
-	Deposit and Withdrawal functionalities.
-	Statement transaction printing.
+	Deposit and Withdrawal from my account.
+	Account statement transaction printing.
 
 # User Stories
 
 # US 1:
-	In order to save money
-	As a bank client
-	I want to make a deposit in my account
+make a deposit in my account
 
 # US 2:
-	In order to retrieve some or all of my savings 
-	As a bank client 
-	I want to make a withdrawal from my account
+make a withdrawal from my account
 
 # Used technologies:
 Spring Boot : 3.0.8
@@ -46,13 +42,13 @@ mvn clean install
 
 
 3. Unit Tests execution
-3.1 Global execution for unit tests
 mvn test
 
 3.2 Unit tests for a class
 mvn test -DTest=Test classname
 
 4. Run Application
+cd infrastructure
 mvn spring-boot:run
 
 
